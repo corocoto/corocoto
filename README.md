@@ -9,6 +9,11 @@ My name is [Artem Gusev](https://www.linkedin.com/in/artem-gusev/) and I'm 20 y.
 
 I'm JavaScript Developer at [BARS Group](https://bars.group/) and also one of [day.js](https://day.js.org/) documentation translators. 
 
+## Links
+
+| [<img src="https://user-images.githubusercontent.com/37180024/89661412-5690f780-d8db-11ea-84a3-63c965287ae2.png" alt="github logo" width="34">](https://github.com/corocoto) |  [<img src="https://user-images.githubusercontent.com/37180024/89661832-da4ae400-d8db-11ea-8ddd-01baa9f9399d.png" alt="dribbble logo" width="34">](https://dribbble.com/CreativeRusBear) | [<img src="https://user-images.githubusercontent.com/37180024/89661629-98ba3900-d8db-11ea-8c51-5df549ab3c57.png" alt="dev logo" width="34">](https://dev.to/corocoto) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="34">](https://www.linkedin.com/in/artem-gusev-422932187/) | [<img src="https://user-images.githubusercontent.com/37180024/89662253-7aa10880-d8dc-11ea-85c0-38644cf28834.png" alt="medium logo" width="34">](https://medium.com/@corocoto)
+|---|---|---|---|---|
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=corocoto.corocoto)
 
 <!--
