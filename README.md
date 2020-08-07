@@ -11,8 +11,8 @@ I'm JavaScript Developer at [BARS Group](https://bars.group/) and also one of [d
 
 ## Links
 
-| [<img src="https://user-images.githubusercontent.com/37180024/89661832-da4ae400-d8db-11ea-8ddd-01baa9f9399d.png" alt="dribbble logo" width="34">](https://dribbble.com/CreativeRusBear) | [<img src="https://user-images.githubusercontent.com/37180024/89661629-98ba3900-d8db-11ea-8c51-5df549ab3c57.png" alt="dev logo" width="34">](https://dev.to/corocoto) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="34">](https://www.linkedin.com/in/artem-gusev/) | [<img src="https://user-images.githubusercontent.com/37180024/89662253-7aa10880-d8dc-11ea-85c0-38644cf28834.png" alt="medium logo" width="34">](https://medium.com/@corocoto)
-|---|---|---|---|
+| [<img src="https://user-images.githubusercontent.com/37180024/89661832-da4ae400-d8db-11ea-8ddd-01baa9f9399d.png" alt="dribbble logo" width="34">](https://dribbble.com/CreativeRusBear) | [<img src="https://user-images.githubusercontent.com/37180024/89661629-98ba3900-d8db-11ea-8c51-5df549ab3c57.png" alt="dev logo" width="34">](https://dev.to/corocoto) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="34">](https://www.linkedin.com/in/artem-gusev/) | [<img src="https://user-images.githubusercontent.com/37180024/89662253-7aa10880-d8dc-11ea-85c0-38644cf28834.png" alt="medium logo" width="34">](https://medium.com/@corocoto) | [<img src="https://user-images.githubusercontent.com/37180024/89664364-bd181480-d8df-11ea-8449-a2745ff064c7.png" alt="habr logo" width="34">](https://habr.com/ru/users/tema4910/)
+|---|---|---|---|---|
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=corocoto.corocoto)
 
