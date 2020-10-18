@@ -5,7 +5,7 @@
 
 ## About me
 
-My name is Artem Gusev and I'm 20 y.o. 
+My name is Artem Gusev and I'm 21 y.o. 
 
 I'm JavaScript Developer at [BARS Group](https://bars.group/) and also one of [day.js](https://day.js.org/) documentation translators. 
 
