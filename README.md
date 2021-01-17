@@ -1,7 +1,5 @@
 # Hi there, I'm Artem 👋
 
-![Metrics](https://metrics.lecoq.io/corocoto?template=terminal&followup=1&languages=1&config.timezone=Europe%2FMoscow&config.animated=true)
-
 ## About me
 
 My name is Artem Gusev and I'm 21 y.o. 
@@ -12,6 +10,10 @@ I'm Front-end Developer and also one of [day.js](https://day.js.org/) documentat
 
 | [<img src="https://user-images.githubusercontent.com/37180024/89661832-da4ae400-d8db-11ea-8ddd-01baa9f9399d.png" alt="dribbble logo" width="34">](https://dribbble.com/CreativeRusBear) | [<img src="https://user-images.githubusercontent.com/37180024/89661629-98ba3900-d8db-11ea-8c51-5df549ab3c57.png" alt="dev logo" width="34">](https://dev.to/corocoto) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="34">](https://www.linkedin.com/in/artem-gusev/) 
 |---|---|---|
+
+## Metrics
+
+![Metrics](https://metrics.lecoq.io/corocoto?template=terminal&followup=1&languages=1&config.timezone=Europe%2FMoscow&config.animated=true)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=corocoto.corocoto)
 
