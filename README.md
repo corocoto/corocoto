@@ -1,7 +1,6 @@
 # Hi there, I'm Artem 👋
 
-<img src="https://user-images.githubusercontent.com/37180024/89584194-55f95200-d844-11ea-9342-97ef594ab6b1.gif" alt="Bear emoji" align="left" height="150" float="left">
-<img alt="corocoto's github stats" src="https://github-readme-stats.vercel.app/api?username=corocoto&count_private=true&include_all_commits=true&show_icons=true" height="200" float="right">
+![Metrics](https://metrics.lecoq.io/corocoto?template=terminal&followup=1&languages=1&config.timezone=Europe%2FMoscow&config.animated=true)
 
 ## About me
 
