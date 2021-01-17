@@ -1,5 +1,3 @@
-# Hi there, I'm Artem 👋
-
 ![Metrics](https://metrics.lecoq.io/corocoto?template=classic&languages=1&config.timezone=Europe%2FMoscow&config.animated=true)
 
 ## About me
