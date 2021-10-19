@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Artem Gusev and I'm 21 y.o. 
+My name is Artem Gusev and I'm 22 y.o. 
 
 I'm Front-end Developer and also one of [day.js](https://day.js.org/) documentation translators. 
 
