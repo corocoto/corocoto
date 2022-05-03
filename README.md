@@ -2,13 +2,23 @@
 
 ## About me
 
-My name is Artem Gusev and I'm 22 y.o. 
-
-I'm Front-end Developer and also one of [day.js](https://day.js.org/) documentation translators. 
+Hi! My name is Artem Gusev and I'm Front-end Developer. 
 
 ## Talks
 
 * moscowcss #17 - [CSS features in Web Components](https://corocoto.github.io/public_talks/presentations/%D0%9E%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_CSS_%D0%B2_%D0%B2%D0%B5%D0%B1_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D1%85.pdf)
+
+## Participation in open source:
+* [**Doka**](https://doka.guide/): 
+  * Wrote section about [how Math.random working under the hood](https://doka.guide/js/math-random/#detali-realizacii);
+  * Wrote section about [feature of console.log in the browser evironment](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere);
+  * Added information about [additional attributes, and also <link> optimization methods](https://doka.guide/html/link/#optimizaciya).
+* [**`day.js`**](https://day.js.org/):
+  * Worked on documentation translation.
+* [**MDN**](https://developer.mozilla.org/):
+  * Translated [the article where described the process how `:has()` pseudo-class works](https://developer.mozilla.org/ru/docs/Web/CSS/:has).
+* [**W3C**](https://www.w3.org/):
+  * Corrected article translation that named as ["Localization vs. Internationalization"](https://www.w3.org/International/questions/qa-i18n.ru).
 
 ## Links
 
