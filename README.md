@@ -8,7 +8,7 @@ Hi! My name is Artem Gusev and I'm Front-end Developer.
 
 * moscowcss #17 - [CSS features in Web Components](https://corocoto.github.io/public_talks/presentations/%D0%9E%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_CSS_%D0%B2_%D0%B2%D0%B5%D0%B1_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D1%85.pdf)
 
-## Participation in open source:
+## Participation in open source
 * [**Doka**](https://doka.guide/): 
   * Wrote section about [how Math.random working under the hood](https://doka.guide/js/math-random/#detali-realizacii);
   * Wrote section about [feature of console.log in the browser evironment](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere);
