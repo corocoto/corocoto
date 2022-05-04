@@ -12,7 +12,7 @@ Hi! My name is Artem Gusev and I'm Front-end Developer.
 * [**Doka**](https://doka.guide/): 
   * Wrote section about [how Math.random working under the hood](https://doka.guide/js/math-random/#detali-realizacii);
   * Wrote section about [feature of console.log in the browser evironment](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere);
-  * Added information about [additional attributes, and also <link> optimization methods](https://doka.guide/html/link/#optimizaciya).
+  * Added information about [additional attributes, and also `<link>` optimization methods](https://doka.guide/html/link/#optimizaciya).
 * [**`day.js`**](https://day.js.org/):
   * Worked on documentation translation.
 * [**MDN**](https://developer.mozilla.org/):
