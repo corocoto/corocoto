@@ -2,7 +2,9 @@
 
 ## About me
 
-Hi! My name is Artem Gusev and I'm Front-end Developer. 
+Front-end engineer with over 3.5 years of commercial experience. 
+Have extensive experience in a process of full development cycle. Starting from collecting requirements, and asking counterquestions, and ending tests covering. 
+Also have experience with mentoring. 
 
 ## Talks
 
