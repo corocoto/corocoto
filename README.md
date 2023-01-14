@@ -12,16 +12,16 @@ Also, have experience with mentoring.
 
 ## Participation in open source
 * [**Doka**](https://doka.guide/): 
-  * Wrote article about [`queueMicrotask()`](https://doka.guide/js/queuemicrotask/);
-  * Wrote section about [how `Math.random()` working under the hood](https://doka.guide/js/math-random/#detali-realizacii);
-  * Wrote section about [feature of `console.log()` in the browser evironment](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere);
+  * Wrote the article about [`queueMicrotask()`](https://doka.guide/js/queuemicrotask/);
+  * Wrote the section about [how `Math.random()` works under the hood](https://doka.guide/js/math-random/#detali-realizacii);
+  * Wrote the section about [the feature of `console.log()` in the browser environment](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere);
   * Added information about [additional attributes, and also `<link>` optimization methods](https://doka.guide/html/link/#optimizaciya).
 * [**`day.js`**](https://day.js.org/):
   * Worked on documentation translation.
 * [**MDN**](https://developer.mozilla.org/):
-  * Translated [the article where described the process how `:has()` pseudo-class works](https://developer.mozilla.org/ru/docs/Web/CSS/:has).
+  * Translated [the article which described the process how `:has()` pseudo-class works](https://developer.mozilla.org/ru/docs/Web/CSS/:has).
 * [**W3C**](https://www.w3.org/):
-  * Corrected article translation that named as ["Localization vs. Internationalization"](https://www.w3.org/International/questions/qa-i18n.ru).
+  * Corrected article translation named ["Localization vs. Internationalization"](https://www.w3.org/International/questions/qa-i18n.ru).
 
 ## Links
 
