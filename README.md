@@ -2,7 +2,7 @@
 
 ## About me
 
-Experienced Front-end Engineer with over 3.5 years in the industry. Adept at navigating the full development cycle, from gathering requirements to conducting thorough testing. Demonstrated ability to mentor and guide others in the field.
+Front-end Engineer with over 3.5 years in the industry. Adept at navigating the full development cycle, from gathering requirements to conducting thorough testing. Demonstrated ability to mentor and guide others in the field.
 
 ## Talks
 
@@ -10,14 +10,13 @@ Experienced Front-end Engineer with over 3.5 years in the industry. Adept at nav
 
 ## Participation in open source
 * [**Doka**](https://doka.guide/): 
-  * Wrote the article about [`queueMicrotask()`](https://doka.guide/js/queuemicrotask/);
-  * Wrote the section about [how `Math.random()` works under the hood](https://doka.guide/js/math-random/#detali-realizacii);
-  * Wrote the section about [the feature of `console.log()` in the browser environment](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere);
-  * Added information about [additional attributes, and also `<link>` optimization methods](https://doka.guide/html/link/#optimizaciya).
+  * Published thought-provoking articles on the inner workings of JavaScript, including the [`queueMicrotask()`](https://doka.guide/js/queuemicrotask/) function and the [`Math.random()` algorithm](https://doka.guide/js/math-random/#detali-realizacii);
+  * Shared knowledge of [`console.log()` excellent capability](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere) in the browser environment.
+  * Contributed valuable information on [additional attributes and optimized <link> methods](https://doka.guide/html/link/#optimizaciya).
 * [**`day.js`**](https://day.js.org/):
   * Worked on documentation translation.
 * [**MDN**](https://developer.mozilla.org/):
-  * Translated [the article which described the process how `:has()` pseudo-class works](https://developer.mozilla.org/ru/docs/Web/CSS/:has).
+  * Translated the article on MDN [explaining the process of work the :has() pseudo-class](https://developer.mozilla.org/ru/docs/Web/CSS/:has).
 * [**W3C**](https://www.w3.org/):
   * Corrected article translation named ["Localization vs. Internationalization"](https://www.w3.org/International/questions/qa-i18n.ru).
 
