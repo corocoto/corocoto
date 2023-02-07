@@ -2,9 +2,7 @@
 
 ## About me
 
-Front-end engineer with over 3.5 years of commercial experience.
-Have extensive experience in a process of a full development cycle. Starting from collecting requirements, asking counterquestions, and ending tests covering.
-Also, have experience with mentoring.
+Experienced Front-end Engineer with over 3.5 years in the industry. Adept at navigating the full development cycle, from gathering requirements to conducting thorough testing. Demonstrated ability to mentor and guide others in the field.
 
 ## Talks
 
