@@ -2,7 +2,7 @@
 
 Hi! I'm Artem👋
 
-Front-end Engineer with 4 years in the industry. I have large experience in navigating the full development cycle, from gathering requirements to conducting thorough testing. Demonstrated ability to mentor and guide others in the field.
+Front-end Engineer with 4 years of experience in commercial software development. Skilled in managing the full development cycle, including gathering requirements and conducting thorough testing. Able to mentor and guide other team members. 
 
 *   🌍  I'm based in Batumi, Georgia
 *   ✉️  You can contact me at [corocoto.art@gmail.com](mailto:corocoto.art@gmail.com)
