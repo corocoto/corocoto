@@ -12,6 +12,8 @@ Front-end Engineer with 4 years in the industry. I have large experience in navi
 * moscowcss #17 - [CSS features in Web Components](https://corocoto.github.io/public_talks/presentations/%D0%9E%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_CSS_%D0%B2_%D0%B2%D0%B5%D0%B1_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D1%85.pdf)
 
 ## Participation in open source
+* [**bpmn.io**](https://bpmn.io/):
+ * Contributed to the internal [`bpmn-auto-layout`](https://github.com/bpmn-io/bpmn-auto-layout) library, and [solved `TypeError: BpmnModdle is not a constructor` bug](https://github.com/bpmn-io/bpmn-auto-layout/pull/30).
 * [**Doka**](https://doka.guide/): 
   * Published thought-provoking articles on the inner workings of JavaScript, including the [`queueMicrotask()`](https://doka.guide/js/queuemicrotask/) function and the [`Math.random()` algorithm](https://doka.guide/js/math-random/#detali-realizacii);
   * Shared knowledge of [`console.log()` excellent capability](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere) in the browser environment.
