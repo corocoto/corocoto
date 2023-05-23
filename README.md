@@ -31,6 +31,12 @@ Front-end Engineer with 4 years of experience in commercial software development
 [<img src="https://user-images.githubusercontent.com/37180024/104838230-a59b7980-58ca-11eb-96b9-9521e64bb716.png" alt="dev.to logo" width="32">](https://dev.to/corocoto) 
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" alt="dribbble logo" width="32">](https://dribbble.com/corocoto) 
 
+## Support Me :sparkling_heart:
+If you like what I do and want to show your support:
+
+* Follow me on GitHub
+* [Buy a coffee](https://www.buymeacoffee.com/corocoto)
+
 <!--
 **corocoto/corocoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
