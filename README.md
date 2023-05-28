@@ -16,7 +16,7 @@ Front-end Engineer with 4 years of experience in commercial software development
 * [**Doka**](https://doka.guide/): 
   * Published thought-provoking articles on the inner workings of JavaScript, including the [`queueMicrotask()`](https://doka.guide/js/queuemicrotask/) function and the [`Math.random()` algorithm](https://doka.guide/js/math-random/#detali-realizacii);
   * Shared knowledge of [`console.log()` excellent capability](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere) in the browser environment.
-  * Contributed valuable information on [additional attributes and optimized <link> methods](https://doka.guide/html/link/#optimizaciya).
+  * Contributed valuable information on [additional attributes and optimized `<link>` methods](https://doka.guide/html/link/#optimizaciya).
   * Wrote [a recommendation for using the persistent data storage mode in the browser](https://doka.guide/js/local-storage/#artyom-gusev-sovetuet). The section includes a description of the features and limitations of this mode, examples, as well as available methods.
 * [**`day.js`**](https://day.js.org/):
   * Worked on documentation translation.
