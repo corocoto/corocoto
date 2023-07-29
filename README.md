@@ -2,7 +2,7 @@
 
 Hi! I'm Artem👋
 
-Front-end Engineer with 4 years of experience in commercial software development. Skilled in managing the full development cycle, including gathering requirements and conducting thorough testing. Able to mentor and guide other team members. 
+Front-end Engineer with 4+ years of experience in commercial software development. Skilled in managing the full development cycle, including gathering requirements and conducting thorough testing. Able to mentor and guide other team members. 
 
 *   ✉️  You can contact me at [corocoto.art@gmail.com](mailto:corocoto.art@gmail.com)
 
@@ -15,7 +15,8 @@ Front-end Engineer with 4 years of experience in commercial software development
   * Contributed to the internal [`bpmn-auto-layout`](https://github.com/bpmn-io/bpmn-auto-layout) library, and solved `TypeError: BpmnModdle is not a constructor` bug:
     * https://github.com/bpmn-io/bpmn-auto-layout/pull/33
     * https://github.com/bpmn-io/bpmn-auto-layout/pull/30
-  * [Updated and actualized russian locale](https://github.com/bpmn-io/bpmn-js-i18n/pull/21) at [bpmn-js-i18n](https://github.com/bpmn-io/bpmn-js-i18n)
+  * [Updated and actualized russian locale](https://github.com/bpmn-io/bpmn-js-i18n/pull/21) at [`bpmn-js-i18n`](https://github.com/bpmn-io/bpmn-js-i18n)
+  * Added opportunity to [translate "TextAnnotation" element's tooltip on properly locale](https://github.com/bpmn-io/bpmn-js/pull/1932) at [`bpmn-js`](https://github.com/corocoto/bpmn-js)
 * [**Doka**](https://doka.guide/): 
   * Published thought-provoking articles on the inner workings of JavaScript, including the [`queueMicrotask()`](https://doka.guide/js/queuemicrotask/) function and the [`Math.random()` algorithm](https://doka.guide/js/math-random/#detali-realizacii);
   * Shared knowledge of [`console.log()` excellent capability](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere) in the browser environment.
@@ -34,7 +35,7 @@ Front-end Engineer with 4 years of experience in commercial software development
 [<img src="https://user-images.githubusercontent.com/37180024/104838230-a59b7980-58ca-11eb-96b9-9521e64bb716.png" alt="dev.to logo" width="32">](https://dev.to/corocoto) 
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" alt="dribbble logo" width="32">](https://dribbble.com/corocoto) 
 
-## Support Me :sparkling_heart:
+## Support Me
 If you like what I do and want to show your support:
 
 * Follow me on GitHub
