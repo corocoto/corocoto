@@ -16,7 +16,7 @@ Front-end Engineer with 4+ years of experience in commercial software developmen
     * https://github.com/bpmn-io/bpmn-auto-layout/pull/33
     * https://github.com/bpmn-io/bpmn-auto-layout/pull/30
   * [Updated and actualized russian locale](https://github.com/bpmn-io/bpmn-js-i18n/pull/21) at [`bpmn-js-i18n`](https://github.com/bpmn-io/bpmn-js-i18n)
-  * Added opportunity to [translate "TextAnnotation" element's tooltip on properly locale](https://github.com/bpmn-io/bpmn-js/pull/1932) at [`bpmn-js`](https://github.com/bpmn-io/bpmn-js)
+  * Added opportunity to [translate _Append TextAnnotation_ context pad action](https://github.com/bpmn-io/bpmn-js/pull/1932) on properly locale at [`bpmn-js`](https://github.com/bpmn-io/bpmn-js)
 * [**Doka**](https://doka.guide/): 
   * Published thought-provoking articles on the inner workings of JavaScript, including the [`queueMicrotask()`](https://doka.guide/js/queuemicrotask/) function and the [`Math.random()` algorithm](https://doka.guide/js/math-random/#detali-realizacii);
   * Shared knowledge of [`console.log()` excellent capability](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere) in the browser environment.
