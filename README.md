@@ -22,6 +22,10 @@ Front-end Engineer with 4+ years of experience in commercial software developmen
   * Shared knowledge of [`console.log()` excellent capability](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere) in the browser environment.
   * Contributed valuable information on [additional attributes and optimized `<link>` methods](https://doka.guide/html/link/#optimizaciya).
   * Wrote [a recommendation for using the persistent data storage mode in the browser](https://doka.guide/js/local-storage/#artyom-gusev-sovetuet). The section includes a description of the features and limitations of this mode, examples, as well as available methods.
+* [**Feature-Sliced Design**](https://feature-sliced.design/):
+  * Contributed and actualized some sections from [the **"Tutorial"** article](https://feature-sliced.design/docs/get-started/tutorial):
+    * https://github.com/feature-sliced/documentation/pull/608
+    * https://github.com/feature-sliced/documentation/pull/609   
 * [**`day.js`**](https://day.js.org/):
   * Worked on documentation translation.
 * [**MDN**](https://developer.mozilla.org/):
