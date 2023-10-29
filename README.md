@@ -12,10 +12,12 @@ Front-end Engineer with 4+ years of experience in commercial software developmen
 
 ## Participation in open source
 * [**bpmn.io**](https://bpmn.io/):
-  * Contributed to the internal [`bpmn-auto-layout`](https://github.com/bpmn-io/bpmn-auto-layout) library, and solved `TypeError: BpmnModdle is not a constructor` bug:
-    * https://github.com/bpmn-io/bpmn-auto-layout/pull/33
-    * https://github.com/bpmn-io/bpmn-auto-layout/pull/30
-  * [Updated and actualized russian locale](https://github.com/bpmn-io/bpmn-js-i18n/pull/21) at [`bpmn-js-i18n`](https://github.com/bpmn-io/bpmn-js-i18n)
+
+  Made solid contributions in core modeling libraries, like: [**bpmn-auto-layout**](https://github.com/bpmn-io/bpmn-auto-layout), [**bpmn-js**](https://github.com/bpmn-io/bpmn-js), and [**bpmn-js-i18n**](https://github.com/bpmn-io/bpmn-js-i18n).
+  * Resolved the problem of working the [**bpmn-auto-layout**](https://github.com/bpmn-io/bpmn-auto-layout) library in the browser environment.
+
+    Right now devs can consume it in a browser and Node.js. Also, these changes allowed maintainers to close a couple of previously created issues. For example, it was [a problem using the library in React](https://github.com/bpmn-io/bpmn-auto-layout/issues/22) and [threw the runtime error "TypeError: BpmnModdle is not a constructor"](https://github.com/bpmn-io/bpmn-auto-layout/issues/18).
+  * [Updated and actualized Russian locale](https://github.com/bpmn-io/bpmn-js-i18n/pull/21) for the [internationalization package](https://github.com/bpmn-io/bpmn-js-i18n)
   * Added opportunity to [translate _Append TextAnnotation_ context pad action](https://github.com/bpmn-io/bpmn-js/pull/1932) on properly locale at [`bpmn-js`](https://github.com/bpmn-io/bpmn-js)
 * [**Doka**](https://doka.guide/): 
   * Published thought-provoking articles on the inner workings of JavaScript, including the [`queueMicrotask()`](https://doka.guide/js/queuemicrotask/) function and the [`Math.random()` algorithm](https://doka.guide/js/math-random/#detali-realizacii);
