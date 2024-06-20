@@ -19,6 +19,8 @@ Front-end Engineer with 5 years of experience in commercial software development
     Right now devs can consume it in a browser and Node.js. Also, these changes allowed maintainers to close a couple of previously created issues. For example, it was [a problem using the library in React](https://github.com/bpmn-io/bpmn-auto-layout/issues/22) and [threw the runtime error "TypeError: BpmnModdle is not a constructor"](https://github.com/bpmn-io/bpmn-auto-layout/issues/18).
   * [Updated and actualized Russian locale](https://github.com/bpmn-io/bpmn-js-i18n/pull/21) for the [internationalization package](https://github.com/bpmn-io/bpmn-js-i18n)
   * Added opportunity to [translate _Append TextAnnotation_ context pad action](https://github.com/bpmn-io/bpmn-js/pull/1932) on properly locale at [`bpmn-js`](https://github.com/bpmn-io/bpmn-js)
+* [**tiged**](https://github.com/tiged/tiged):
+  * Resolved the ["could not find commit hash for HEAD" problem](https://github.com/tiged/tiged/issues/90), that happened at the moment of fetching data from repo
 * [**Doka**](https://doka.guide/): 
   * Published thought-provoking articles on the inner workings of JavaScript, including the [`queueMicrotask()`](https://doka.guide/js/queuemicrotask/) function and the [`Math.random()` algorithm](https://doka.guide/js/math-random/#detali-realizacii);
   * Shared knowledge of [`console.log()` excellent capability](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere) in the browser environment.
