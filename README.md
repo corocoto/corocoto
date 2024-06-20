@@ -21,6 +21,9 @@ Front-end Engineer with 5+ years of experience in commercial software developmen
   * Added opportunity to [translate _Append TextAnnotation_ context pad action](https://github.com/bpmn-io/bpmn-js/pull/1932) on properly locale at [`bpmn-js`](https://github.com/bpmn-io/bpmn-js)
 * [**tiged**](https://github.com/tiged/tiged):
   * Resolved the ["could not find commit hash for HEAD" problem](https://github.com/tiged/tiged/issues/90), that happened at the moment of fetching data from repo
+* [**Apache Superset**](https://superset.apache.org/):
+  * Added opportunity [to install frontend part as a package without getting an error](https://github.com/apache/superset/issues/27993)
+  * Added opportunity [to install frontend part as a dependency without getting an error on both v18 and v20 node's versions](https://github.com/apache/superset/issues/28094)
 * [**Doka**](https://doka.guide/): 
   * Published thought-provoking articles on the inner workings of JavaScript, including the [`queueMicrotask()`](https://doka.guide/js/queuemicrotask/) function and the [`Math.random()` algorithm](https://doka.guide/js/math-random/#detali-realizacii);
   * Shared knowledge of [`console.log()` excellent capability](https://doka.guide/js/console-log/#osobennost-raboty-v-brauzere) in the browser environment.
