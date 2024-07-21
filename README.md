@@ -10,6 +10,9 @@ Front-end Engineer with 5+ years of experience in commercial software developmen
 
 * moscowcss #17 - [CSS features in Web Components](https://corocoto.github.io/public_talks/presentations/%D0%9E%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_CSS_%D0%B2_%D0%B2%D0%B5%D0%B1_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D1%85.pdf)
 
+## Researches
+* Took part in ["HOW DO MACHINE LEARNING PROJECTS USE CONTINUOUS INTEGRATION PRACTICES? AN EMPIRICAL STUDY ON GITHUB ACTIONS" research](https://ci-ml-msr.github.io/)
+
 ## Participation in open source
 * [**bpmn.io**](https://bpmn.io/):
 
