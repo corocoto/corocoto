@@ -2,7 +2,7 @@
 
 Hi! I'm Artem👋
 
-Front-end Engineer with 5+ years of experience in commercial software development. Skilled in managing the full development cycle, including gathering requirements and conducting thorough testing. Able to mentor and guide other team members. 
+Senior Front-end Engineer with 6+ years of experience in commercial software development. Skilled in managing the full development cycle, including gathering requirements and conducting thorough testing. Able to mentor and guide other team members. 
 
 *   ✉️  You can contact me at [corocoto.art@gmail.com](mailto:corocoto.art@gmail.com)
 
